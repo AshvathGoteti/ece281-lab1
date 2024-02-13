@@ -16,7 +16,7 @@
 --| DESCRIPTION   :  This file implements the thirtyOneDaMonth lab.  Using a 4
 --| switch input, the circuit will light up whenever the 4 switches represent a
 --| month with 31 days
---|
+--| Documentation: I worked with C3C Wynn as he helped me figure out the logic for my truth table.
 --|
 --+----------------------------------------------------------------------------
 --|
